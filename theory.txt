@@ -1,0 +1,10 @@
+package.json is used to store the dependencies or chexk them 
+package -lock.json contains the dependencies tree 
+(It is helpfull because if we want to know which version of dependencies are required to run a 
+certain modules we have to check the dependency tree..)
+
+nodemon (very helpfull in htttp server)
+npm (node package manager: used to install packages or modules and many more)
+e.g npm install express
+npm i -g nodemon("install the nodemon globally")
+npm 
